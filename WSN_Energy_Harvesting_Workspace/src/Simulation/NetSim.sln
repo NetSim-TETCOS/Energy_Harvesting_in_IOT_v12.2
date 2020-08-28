@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZigBee", "ZigBee\ZigBee.vcxproj", "{9D008851-0A14-4CD7-B858-D94C31F0F146}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BatteryModel", "BatteryModel\BatteryModel.vcxproj", "{56494E7D-9F8C-4A36-BCED-18C0DA7A227B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D008851-0A14-4CD7-B858-D94C31F0F146}.Debug|x64.ActiveCfg = Debug|x64
+		{9D008851-0A14-4CD7-B858-D94C31F0F146}.Debug|x64.Build.0 = Debug|x64
+		{9D008851-0A14-4CD7-B858-D94C31F0F146}.Debug|x86.ActiveCfg = Debug|Win32
+		{9D008851-0A14-4CD7-B858-D94C31F0F146}.Debug|x86.Build.0 = Debug|Win32
+		{9D008851-0A14-4CD7-B858-D94C31F0F146}.Release|x64.ActiveCfg = Release|x64
+		{9D008851-0A14-4CD7-B858-D94C31F0F146}.Release|x64.Build.0 = Release|x64
+		{9D008851-0A14-4CD7-B858-D94C31F0F146}.Release|x86.ActiveCfg = Release|Win32
+		{9D008851-0A14-4CD7-B858-D94C31F0F146}.Release|x86.Build.0 = Release|Win32
+		{56494E7D-9F8C-4A36-BCED-18C0DA7A227B}.Debug|x64.ActiveCfg = Debug|x64
+		{56494E7D-9F8C-4A36-BCED-18C0DA7A227B}.Debug|x64.Build.0 = Debug|x64
+		{56494E7D-9F8C-4A36-BCED-18C0DA7A227B}.Debug|x86.ActiveCfg = Debug|Win32
+		{56494E7D-9F8C-4A36-BCED-18C0DA7A227B}.Debug|x86.Build.0 = Debug|Win32
+		{56494E7D-9F8C-4A36-BCED-18C0DA7A227B}.Release|x64.ActiveCfg = Release|x64
+		{56494E7D-9F8C-4A36-BCED-18C0DA7A227B}.Release|x64.Build.0 = Release|x64
+		{56494E7D-9F8C-4A36-BCED-18C0DA7A227B}.Release|x86.ActiveCfg = Release|Win32
+		{56494E7D-9F8C-4A36-BCED-18C0DA7A227B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D73456C5-B150-46C3-9E95-C282C6777726}
+	EndGlobalSection
+EndGlobal
